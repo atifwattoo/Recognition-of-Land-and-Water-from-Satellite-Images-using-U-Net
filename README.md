@@ -1,5 +1,7 @@
 # Recognition of Land and Water from Satellite Images using U-Net
 
+#### [Read that blog with GitHub Repository on Global News One ](https://globalnewsone.com/recognition-of-land-and-water-from-satellite-images-using-u-net/)
+
 ## Importing Libraries and Modules
 
 The initial step involves importing all necessary libraries and modules required for the project. Here's a detailed explanation of each import and its purpose:
